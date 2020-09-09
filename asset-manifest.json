@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/udemy-robofriends/static/css/main.edd308d9.chunk.css",
+    "main.js": "/udemy-robofriends/static/js/main.149f251a.chunk.js",
+    "main.js.map": "/udemy-robofriends/static/js/main.149f251a.chunk.js.map",
+    "runtime-main.js": "/udemy-robofriends/static/js/runtime-main.c5433a09.js",
+    "runtime-main.js.map": "/udemy-robofriends/static/js/runtime-main.c5433a09.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/udemy-robofriends/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.cab51068.chunk.js": "/udemy-robofriends/static/js/2.cab51068.chunk.js",
+    "static/js/2.cab51068.chunk.js.map": "/udemy-robofriends/static/js/2.cab51068.chunk.js.map",
+    "index.html": "/udemy-robofriends/index.html",
+    "precache-manifest.0d8fcf9f2d949a502e4803a4a0642fe0.js": "/udemy-robofriends/precache-manifest.0d8fcf9f2d949a502e4803a4a0642fe0.js",
+    "service-worker.js": "/udemy-robofriends/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/udemy-robofriends/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.edd308d9.chunk.css.map": "/udemy-robofriends/static/css/main.edd308d9.chunk.css.map",
+    "static/js/2.cab51068.chunk.js.LICENSE.txt": "/udemy-robofriends/static/js/2.cab51068.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/udemy-robofriends/static/media/BerkshireSwash-Regular.eaf24a48.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c5433a09.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.cab51068.chunk.js",
+    "static/css/main.edd308d9.chunk.css",
+    "static/js/main.149f251a.chunk.js"
+  ]
+}
